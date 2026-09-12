@@ -1,13 +1,13 @@
 # 03 — Individual Reflection
 
-> Viết bằng lời của bạn (Phase 7 trong `01-worksheet.md`). Có thể dùng AI gợi ý câu hỏi tự soi, không dùng AI viết thay. 8-12 câu, có chuyện cụ thể.
+
 
 ## Thông tin cá nhân
 
-- Họ và tên:
-- Mã học viên:
-- Nhóm:
-- Candidate problem nhóm chọn:
+- Họ và tên: Vũ Văn Điền
+- Mã học viên: 2A202602418
+- Nhóm: stdio.h
+- Candidate problem nhóm chọn: AI Record & Summarize bài giảng / cuộc họp
 
 ---
 
@@ -17,70 +17,44 @@ Ghi việc cụ thể + kết quả cụ thể. Không ghi chung chung kiểu "t
 
 | Hoạt động | Tôi đã làm gì? (việc cụ thể) | Kết quả / ảnh hưởng tới nhóm |
 |---|---|---|
-| Scan cá nhân | | |
-| Pitch Problem Card | | |
-| Challenge bài của bạn khác | | |
-| Gom trùng / cluster | | |
-| Chọn candidate problem | | |
-| Validation / research | | |
-| Workflow nhóm | | |
-| Problem Statement | | |
-| Rule / Workflow / Agent | | |
-| Decision | | |
-
-**Dấu tay rõ nhất của tôi trong artifact cuối (1-2 câu):**
-
-```text
-
-```
-
----
+| Scan cá nhân | Tự scan được 5 problems, dùng 3 lăng kính | tôi đã đưa ra được vấn đề về nấu ăn hằng ngày với số nguyên liệu trong tủ lạnh nên muốn sử dụng AI để gợi ý cách nấu ăn sao cho phù hợp và được bầu vào top candidate |
+| Pitch Problem Card | Pitch Card tổng hợp thông tin từ nhiều nguồn trong 10 phút, trình bày rõ actor / workflow / số đo | nhóm có góp ý đây là 1 pitch card không phù hợp nên không được xếp vào top candidate |
+| Challenge bài của bạn khác | Hỏi bạn thịnh metric nhanh hơn đo bằng gì cụ thể | bổ sung được số giờ tiết kiệm vào Problem Card |
+| Gom trùng / cluster | tôi cũng đã đánh giá pitch card về dự báo chỗ trống trong chỗ để xe khá là mới mẻ , và cũng tham gia bầu chọn ra các top canidate | tôi là một trong những người đã vote dự đoán chỗ để xe |
+| Chọn candidate problem | tôi ủng hộ về vấn đề dự đoán chỗ để xe và vấn đề lấy thông tin từ các record bài giảng | tôi thấy đây là 2 vấn đề có tiềm năng và AI có thể giải quyết được |
+| Validation / research | tôi đã tìm trên google các vấn đề tương tự trên thế giới và thấy các giải pháp này chưa giải quyết triệt để và còn nhiều hạn chế. Tôi cũng thấy có các bài báo nói về các giải pháp tương tự    |  thông tin này có ích cho nhóm trong việc đánh giá tiềm năng của vấn đề |
+| Workflow nhóm | Tôi cũng tham gia đóng góp xây dựng workflow cho nhóm sau khi đã có 1 candidate problem và các thông tin liên quan   | nhưng chưa thống nhất được với nhóm vì nhóm thấy nó chưa phù hợp vì nghĩ đã có giải pháp tối ưu h  |
+| Rule / Workflow / Agent | tôi đã đề xuất mức độ workflow của vấn đề này | tôi nghĩ nó phù hợp để áp dụng AI vào giải quyết vấn đề này |
+| Decision | tôi bỏ phiếu go vì tôi thấy nó khá có tiềm năng để thực hiện | nhóm đã thống nhất với nhau 
+|
 
 ## 2. Bảng dùng AI (mỗi dòng 1 phase có dùng AI — 2 cột cuối bắt buộc)
 
 | Phase | Tôi dùng AI để làm gì? | AI hữu ích ở đâu? | AI sai / hời hợt ở đâu? | Tôi sửa gì bằng nhận định của mình? |
 |---|---|---|---|---|
-| Scan | | | | |
-| Problem Card | | | | |
-| Workflow | | | | |
-| Research | | | | |
-| Problem Statement | | | | |
-| Rule / Workflow / Agent | | | | |
-| Decision | | | | |
+| Scan | Hỏi AI gợi ý thêm các vấn đề mà sinh viên hay gặp. | Mở ra được vài góc nhìn mà mình chưa nghĩ tới. | Gợi ý lan man, nhiều cái không phải pain thật mình trải qua. | Tự lọc lại chỉ giữ những cái mình từng bực bội thật sự. |
+| Problem Card | Nhờ AI viết lại vấn đề gợi ý thực đơn cho gọn hơn. | Diễn đạt actor và bottleneck rõ ràng hơn lúc mình tự viết. | AI hay dùng từ kỹ thuật, nghe xa rời thực tế. | Sửa lại bằng ngôn ngữ tự nhiên hơn, gần với cách mình thật sự nghĩ. |
+| Workflow | Hỏi AI phác thảo sơ workflow bài toán dự đoán chỗ để xe. | Ra được sườn 5-6 bước nhanh, không mất công ngồi nghĩ từ đầu. | Bỏ qua bước ghi sổ tay thủ công của bảo vệ  đây lại là bottleneck thật. | Tự thêm lại bước đó vào, nhóm thảo luận nhiều nhất quanh chỗ này. |
+| Research | Dùng AI tóm tắt các giải pháp dự đoán chỗ để xe trên thế giới. | Có ngay vài cái tên hệ thống để search sâu thêm. | AI nói hiệu quả 95% nhưng không rõ điều kiện, quy mô nào. | Tự vào Google Scholar kiểm chứng, thấy phần lớn cần hạ tầng cảm biến tốn kém. |
+| Problem Statement | Nhờ AI viết thử bản nháp v0 theo template. | Nhận ra mình đang thiếu phần boundary. | Metric AI gợi ý chung chung, thiếu con số đo cụ thể. | Hỏi thêm bạn nhóm, tự điền metric dựa trên trải nghiệm thực tế. |
+| Rule / Workflow / Agent | Hỏi AI so sánh 3 mức và lý do nên chọn mức nào. | Hiểu rõ hơn sự khác biệt trước khi thảo luận với nhóm. | AI nghiêng về Agent vì nghe hay hơn, không tính đến chi phí triển khai. | Đề xuất Workflow vì phù hợp hơn với thực tế, nhóm đồng ý sau khi mình giải thích. |
+| Decision | Nhờ AI phản biện lựa chọn cuối của nhóm. | Chỉ ra được vài rủi ro nhóm chưa nhắc tới. | AI không biết nguồn lực và ưu tiên thực tế của nhóm. | Kết hợp ý AI với kinh nghiệm nhóm rồi mới chốt. |
 
-> Nếu phase nào không dùng AI, ghi `Không dùng` và vì sao tự làm.
 
----
 
 ## 3. Reflection câu hỏi mở
 
-Chọn 3-4 câu trong 6 câu dưới để viết thành đoạn 8-12 câu (không trả lời bullet 1 dòng):
-- Tôi học được gì khi nghe top 3 problems của các bạn khác?
-- Nhóm có lúc nào bị solution-first, đòi làm Agent cho ngầu không?
-- Tôi có thay đổi ý kiến sau khi bị challenge không, vì sao đổi?
-- Tôi đóng góp gì thật sự vào artifact cuối, phần nào có dấu tay của tôi?
-- Điều khó nhất khi viết Problem Statement là gì, metric hay boundary?
-- Nếu làm lại, tôi sẽ challenge nhóm mạnh hơn ở điểm nào?
+
 
 **Reflection:**
 
 ```text
-
-
+Tôi đã học được là cách tiếp cận vấn đề bằng 1 lăng kính sẽ không hiệu quả bằng cách tiếp cận bằng nhiều lăng kính khác nhau .Chúng tôi cũng học được là cần phải trao đổi và thảo luận thật kỹ trước khi ra quyết định để có thể đưa ra được quyết định đúng đắn .
+Khó khăn lớn nhất là khi định nghĩa workflow nhóm không đồng nhất , mỗi người hiểu theo cách khác nhau có người nói nên dùng agent AI để giải quyết cho nhanh nhưng có người nói nên dùng workflow hợp lý hơn. Cuối cùng thì mọi người cũng đã thống nhất lựa chọn workflow để giải quyết vấn đề là phù hợp nhất
+Nếu được làm lại thì tôi sẽ trao đổi thêm với mọi người , hôm nay chúng tôi đã mất quá nhiều thời gian vào việc thảo luận để tìm ra top candidate rồi sau đó lại không có nhiều thời gian để tìm hiểu sâu và làm một số tài liệu để thuyết trình khiến cho quá trình này vô cùng vội vã và chưa được tối ưu với tôi thì đây là một điều cần phải cải thiện 
 
 ```
 
 ---
 
-## 4. Tự kiểm cuối bài (check trước khi nộp repo)
-
-- [ ] [12đ] Cá nhân có 5+ problems + top 3 Problem Cards
-- [ ] [12đ] Tôi đã pitch rõ + challenge nhóm đúng trọng tâm (ghi ở bảng mục 1)
-- [ ] Nhóm có nhật ký hội tụ từ candidates về 1 bài
-- [ ] [15đ] Nhóm có workflow trước/sau
-- [ ] [20đ] Nhóm có PS v0/v1 với metric + boundary rõ
-- [ ] [15đ] Nhóm có so sánh No AI / Rule / Workflow / Agent
-- [ ] [10đ] Nhóm có Go / Not Yet / No-Go + lý do rõ
-- [ ] [10đ] Reflection này có vai trò thật + AI giúp/sai ở đâu + điều học được + nếu làm lại đổi gì
-- [ ] [6đ] Tôi tự giải thích được mạch problem → workflow → metric → boundary → độ phù hợp AI
 
