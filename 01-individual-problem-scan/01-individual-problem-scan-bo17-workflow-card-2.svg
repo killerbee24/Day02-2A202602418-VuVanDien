@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Draft Workflow Card 2 - Chuẩn bị interview plan từ Job Description</title>
+  <desc id="desc">So sánh quy trình chuẩn bị interview plan thủ công và workflow có AI cùng human approval.</desc>
+  <defs>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#0f172a" flood-opacity="0.10"/></filter>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#64748b"/></marker>
+    <style>
+      .sans { font-family: "Segoe UI", Arial, sans-serif; }
+      .section { font: 700 20px "Segoe UI", Arial, sans-serif; letter-spacing: 1.5px; }
+      .step-title { font: 700 16px "Segoe UI", Arial, sans-serif; fill: #0f172a; }
+      .step-copy { font: 14px "Segoe UI", Arial, sans-serif; fill: #475569; }
+      .small { font: 14px "Segoe UI", Arial, sans-serif; }
+      .metric { font: 700 15px "Segoe UI", Arial, sans-serif; }
+    </style>
+  </defs>
+
+  <rect width="1600" height="1000" fill="#f8fafc"/>
+  <rect width="1600" height="142" fill="#0f172a"/>
+  <rect x="60" y="30" width="188" height="34" rx="17" fill="#2563eb"/>
+  <text x="154" y="53" text-anchor="middle" class="sans" font-size="15" font-weight="700" fill="#ffffff">WORKFLOW CARD 02</text>
+  <text x="60" y="101" class="sans" font-size="32" font-weight="750" fill="#ffffff">Chuẩn bị interview plan từ Job Description</text>
+  <text x="1540" y="53" text-anchor="end" class="sans" font-size="16" fill="#cbd5e1">BO-17 • DRAFT</text>
+  <text x="1540" y="103" text-anchor="end" class="sans" font-size="16" fill="#94a3b8">Actor: Interviewer / Hiring Lead • Trước buổi phỏng vấn</text>
+
+  <rect x="60" y="170" width="1480" height="260" rx="20" fill="#ffffff" stroke="#e2e8f0" filter="url(#shadow)"/>
+  <circle cx="88" cy="210" r="10" fill="#ef4444"/>
+  <text x="110" y="218" class="section" fill="#991b1b">CURRENT STATE</text>
+  <rect x="1252" y="190" width="258" height="38" rx="19" fill="#fef2f2" stroke="#fecaca"/>
+  <text x="1381" y="215" text-anchor="middle" class="sans" font-size="15" font-weight="700" fill="#b91c1c">60–120 phút/JD (giả định)</text>
+
+  <g>
+    <rect x="90" y="255" width="240" height="100" rx="14" fill="#f8fafc" stroke="#cbd5e1"/>
+    <text x="210" y="291" text-anchor="middle" class="step-title">1. Đọc JD</text>
+    <text x="210" y="319" text-anchor="middle" class="step-copy">10–20 phút</text>
+
+    <line x1="336" y1="305" x2="372" y2="305" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+    <rect x="380" y="255" width="240" height="100" rx="14" fill="#fff7ed" stroke="#fb923c" stroke-width="2"/>
+    <text x="500" y="287" text-anchor="middle" class="step-title">2. Tách competency</text>
+    <text x="500" y="313" text-anchor="middle" class="step-copy">nhóm yêu cầu + đặt weight</text>
+    <text x="500" y="336" text-anchor="middle" class="step-copy">15–25 phút</text>
+
+    <line x1="626" y1="305" x2="662" y2="305" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+    <rect x="670" y="255" width="240" height="100" rx="14" fill="#fff7ed" stroke="#fb923c" stroke-width="2"/>
+    <text x="790" y="287" text-anchor="middle" class="step-title">3. Viết câu hỏi</text>
+    <text x="790" y="313" text-anchor="middle" class="step-copy">question + follow-up</text>
+    <text x="790" y="336" text-anchor="middle" class="step-copy">20–40 phút</text>
+
+    <line x1="916" y1="305" x2="952" y2="305" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+    <rect x="960" y="255" width="240" height="100" rx="14" fill="#fff7ed" stroke="#fb923c" stroke-width="2"/>
+    <text x="1080" y="287" text-anchor="middle" class="step-title">4. Viết rubric</text>
+    <text x="1080" y="313" text-anchor="middle" class="step-copy">expected evidence + strong/weak</text>
+    <text x="1080" y="336" text-anchor="middle" class="step-copy">15–30 phút</text>
+
+    <line x1="1206" y1="305" x2="1242" y2="305" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+    <rect x="1250" y="255" width="230" height="100" rx="14" fill="#f8fafc" stroke="#cbd5e1"/>
+    <text x="1365" y="291" text-anchor="middle" class="step-title">5. Review + sửa</text>
+    <text x="1365" y="319" text-anchor="middle" class="step-copy">gửi qua lại giữa người</text>
+  </g>
+
+  <rect x="90" y="375" width="1390" height="38" rx="10" fill="#fff1f2" stroke="#fecdd3"/>
+  <text x="110" y="400" class="small" font-weight="700" fill="#be123c">BOTTLENECK • Bước 2–4:</text>
+  <text x="335" y="400" class="small" fill="#881337">chuyển đổi semantic lặp lại từ JD → competency → question → rubric; chất lượng phụ thuộc kinh nghiệm từng interviewer.</text>
+
+  <path d="M800 442 L800 476" stroke="#2563eb" stroke-width="3" marker-end="url(#arrow)"/>
+  <rect x="692" y="438" width="216" height="30" rx="15" fill="#dbeafe"/>
+  <text x="800" y="459" text-anchor="middle" class="small" font-weight="700" fill="#1d4ed8">AI tạo draft có cấu trúc</text>
+
+  <rect x="60" y="480" width="1480" height="285" rx="20" fill="#ffffff" stroke="#bfdbfe" filter="url(#shadow)"/>
+  <circle cx="88" cy="520" r="10" fill="#2563eb"/>
+  <text x="110" y="528" class="section" fill="#1e40af">FUTURE STATE</text>
+  <text x="1510" y="526" text-anchor="end" class="small" font-weight="700" fill="#1e40af">Mục tiêu: giảm ≥ 50% thời gian chuẩn bị</text>
+
+  <g>
+    <rect x="90" y="565" width="190" height="104" rx="14" fill="#ecfdf5" stroke="#34d399" stroke-width="2"/>
+    <text x="185" y="595" text-anchor="middle" class="step-title">1. Human nhập</text>
+    <text x="185" y="621" text-anchor="middle" class="step-copy">JD + seniority</text>
+    <text x="185" y="644" text-anchor="middle" class="step-copy">+ framework (nếu có)</text>
+
+    <line x1="286" y1="617" x2="322" y2="617" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+    <rect x="330" y="565" width="190" height="104" rx="14" fill="#f5f3ff" stroke="#8b5cf6" stroke-width="2"/>
+    <text x="425" y="595" text-anchor="middle" class="step-title">2. AI phân tích JD</text>
+    <text x="425" y="621" text-anchor="middle" class="step-copy">draft competency</text>
+    <text x="425" y="644" text-anchor="middle" class="step-copy">+ weight + rationale</text>
+
+    <line x1="526" y1="617" x2="562" y2="617" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+    <rect x="570" y="565" width="190" height="104" rx="14" fill="#f5f3ff" stroke="#8b5cf6" stroke-width="2"/>
+    <text x="665" y="595" text-anchor="middle" class="step-title">3. RAG truy xuất</text>
+    <text x="665" y="621" text-anchor="middle" class="step-copy">framework + rubric</text>
+    <text x="665" y="644" text-anchor="middle" class="step-copy">đã được duyệt</text>
+
+    <line x1="766" y1="617" x2="802" y2="617" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+    <rect x="810" y="565" width="190" height="104" rx="14" fill="#f5f3ff" stroke="#8b5cf6" stroke-width="2"/>
+    <text x="905" y="595" text-anchor="middle" class="step-title">4. AI sinh plan</text>
+    <text x="905" y="621" text-anchor="middle" class="step-copy">question + follow-up</text>
+    <text x="905" y="644" text-anchor="middle" class="step-copy">evidence + rubric</text>
+
+    <line x1="1006" y1="617" x2="1042" y2="617" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+    <rect x="1050" y="565" width="190" height="104" rx="14" fill="#ecfdf5" stroke="#34d399" stroke-width="2"/>
+    <text x="1145" y="595" text-anchor="middle" class="step-title">5. Human review</text>
+    <text x="1145" y="621" text-anchor="middle" class="step-copy">Edit • Regenerate</text>
+    <text x="1145" y="644" text-anchor="middle" class="step-copy">Delete • Add manual</text>
+
+    <line x1="1246" y1="617" x2="1282" y2="617" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+    <rect x="1290" y="565" width="190" height="104" rx="14" fill="#ecfdf5" stroke="#10b981" stroke-width="2"/>
+    <text x="1385" y="595" text-anchor="middle" class="step-title">6. Human approve</text>
+    <text x="1385" y="621" text-anchor="middle" class="step-copy">chỉ plan APPROVED</text>
+    <text x="1385" y="644" text-anchor="middle" class="step-copy">mới được sử dụng</text>
+  </g>
+
+  <rect x="90" y="698" width="330" height="42" rx="21" fill="#eff6ff" stroke="#93c5fd"/>
+  <text x="255" y="725" text-anchor="middle" class="metric" fill="#1d4ed8">Preparation time ↓ ≥ 50%</text>
+  <rect x="438" y="698" width="330" height="42" rx="21" fill="#eff6ff" stroke="#93c5fd"/>
+  <text x="603" y="725" text-anchor="middle" class="metric" fill="#1d4ed8">Question acceptance ≥ 70%</text>
+  <rect x="786" y="698" width="330" height="42" rx="21" fill="#eff6ff" stroke="#93c5fd"/>
+  <text x="951" y="725" text-anchor="middle" class="metric" fill="#1d4ed8">Fields complete = 100%</text>
+  <rect x="1134" y="698" width="346" height="42" rx="21" fill="#fffbeb" stroke="#fcd34d"/>
+  <text x="1307" y="725" text-anchor="middle" class="metric" fill="#92400e">Baseline: pilot 10 JD</text>
+
+  <rect x="60" y="795" width="720" height="155" rx="18" fill="#ecfdf5" stroke="#6ee7b7"/>
+  <text x="90" y="833" class="section" fill="#047857">HUMAN BOUNDARY</text>
+  <text x="90" y="870" class="small" fill="#065f46">• Human chốt competency, weight, question và rubric.</text>
+  <text x="90" y="900" class="small" fill="#065f46">• AI chỉ tạo draft; plan bắt buộc được review trước khi dùng.</text>
+  <text x="90" y="930" class="small" fill="#065f46">• Lưu AI suggestion và human edit để audit.</text>
+
+  <rect x="820" y="795" width="720" height="155" rx="18" fill="#fffbeb" stroke="#fcd34d"/>
+  <text x="850" y="833" class="section" fill="#92400e">FALLBACK</text>
+  <text x="850" y="870" class="small" fill="#78350f">• AI/RAG lỗi → mở default competency template.</text>
+  <text x="850" y="900" class="small" fill="#78350f">• Interviewer tiếp tục tạo plan trong editor thủ công.</text>
+  <text x="850" y="930" class="small" fill="#78350f">• Không chặn lịch phỏng vấn khi LLM unavailable.</text>
+</svg>

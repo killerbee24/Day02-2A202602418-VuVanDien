@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Draft Workflow Card 1 - Theo dõi competency coverage và evidence</title>
+  <desc id="desc">So sánh quy trình hiện tại và tương lai có AI hỗ trợ trong lúc phỏng vấn.</desc>
+  <defs>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#0f172a" flood-opacity="0.10"/>
+    </filter>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#64748b"/>
+    </marker>
+    <style>
+      .sans { font-family: "Segoe UI", Arial, sans-serif; }
+      .section { font: 700 20px "Segoe UI", Arial, sans-serif; letter-spacing: 1.5px; }
+      .step-title { font: 700 16px "Segoe UI", Arial, sans-serif; fill: #0f172a; }
+      .step-copy { font: 14px "Segoe UI", Arial, sans-serif; fill: #475569; }
+      .small { font: 14px "Segoe UI", Arial, sans-serif; }
+      .metric { font: 700 15px "Segoe UI", Arial, sans-serif; }
+    </style>
+  </defs>
+
+  <rect width="1600" height="1000" fill="#f8fafc"/>
+  <rect width="1600" height="142" fill="#0f172a"/>
+  <rect x="60" y="30" width="188" height="34" rx="17" fill="#2563eb"/>
+  <text x="154" y="53" text-anchor="middle" class="sans" font-size="15" font-weight="700" fill="#ffffff">WORKFLOW CARD 01</text>
+  <text x="60" y="101" class="sans" font-size="32" font-weight="750" fill="#ffffff">Theo dõi competency coverage &amp; evidence trong interview</text>
+  <text x="1540" y="53" text-anchor="end" class="sans" font-size="16" fill="#cbd5e1">BO-17 • DRAFT</text>
+  <text x="1540" y="103" text-anchor="end" class="sans" font-size="16" fill="#94a3b8">Actor: Interviewer • Buổi phỏng vấn 45–60 phút</text>
+
+  <rect x="60" y="170" width="1480" height="260" rx="20" fill="#ffffff" stroke="#e2e8f0" filter="url(#shadow)"/>
+  <circle cx="88" cy="210" r="10" fill="#ef4444"/>
+  <text x="110" y="218" class="section" fill="#991b1b">CURRENT STATE</text>
+  <rect x="1274" y="190" width="236" height="38" rx="19" fill="#fef2f2" stroke="#fecaca"/>
+  <text x="1392" y="215" text-anchor="middle" class="sans" font-size="15" font-weight="700" fill="#b91c1c">5 tác vụ gần đồng thời</text>
+
+  <g>
+    <rect x="90" y="255" width="190" height="100" rx="14" fill="#f8fafc" stroke="#cbd5e1"/>
+    <circle cx="112" cy="277" r="14" fill="#e2e8f0"/><text x="112" y="282" text-anchor="middle" class="small" font-weight="700" fill="#334155">1</text>
+    <text x="185" y="291" text-anchor="middle" class="step-title">Hỏi câu hỏi</text>
+    <text x="185" y="319" text-anchor="middle" class="step-copy">theo interview plan</text>
+
+    <line x1="286" y1="305" x2="322" y2="305" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+    <rect x="330" y="255" width="190" height="100" rx="14" fill="#f8fafc" stroke="#cbd5e1"/>
+    <circle cx="352" cy="277" r="14" fill="#e2e8f0"/><text x="352" y="282" text-anchor="middle" class="small" font-weight="700" fill="#334155">2</text>
+    <text x="425" y="291" text-anchor="middle" class="step-title">Nghe + ghi note</text>
+    <text x="425" y="319" text-anchor="middle" class="step-copy">câu trả lời ứng viên</text>
+
+    <line x1="526" y1="305" x2="562" y2="305" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+    <rect x="570" y="255" width="190" height="100" rx="14" fill="#fff7ed" stroke="#fb923c" stroke-width="2"/>
+    <circle cx="592" cy="277" r="14" fill="#fed7aa"/><text x="592" y="282" text-anchor="middle" class="small" font-weight="700" fill="#9a3412">3</text>
+    <text x="665" y="286" text-anchor="middle" class="step-title">Tự đánh giá</text>
+    <text x="665" y="309" text-anchor="middle" class="step-title">evidence</text>
+    <text x="665" y="335" text-anchor="middle" class="step-copy">đủ mạnh hay chưa?</text>
+
+    <line x1="766" y1="305" x2="802" y2="305" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+    <rect x="810" y="255" width="190" height="100" rx="14" fill="#fff7ed" stroke="#fb923c" stroke-width="2"/>
+    <circle cx="832" cy="277" r="14" fill="#fed7aa"/><text x="832" y="282" text-anchor="middle" class="small" font-weight="700" fill="#9a3412">4</text>
+    <text x="905" y="291" text-anchor="middle" class="step-title">Nhớ coverage</text>
+    <text x="905" y="319" text-anchor="middle" class="step-copy">đã hỏi / còn thiếu</text>
+
+    <line x1="1006" y1="305" x2="1042" y2="305" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+    <rect x="1050" y="255" width="190" height="100" rx="14" fill="#fff7ed" stroke="#fb923c" stroke-width="2"/>
+    <circle cx="1072" cy="277" r="14" fill="#fed7aa"/><text x="1072" y="282" text-anchor="middle" class="small" font-weight="700" fill="#9a3412">5</text>
+    <text x="1145" y="291" text-anchor="middle" class="step-title">Nghĩ follow-up</text>
+    <text x="1145" y="319" text-anchor="middle" class="step-copy">trong khi nghe</text>
+
+    <line x1="1246" y1="305" x2="1282" y2="305" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+    <rect x="1290" y="255" width="190" height="100" rx="14" fill="#f8fafc" stroke="#cbd5e1"/>
+    <circle cx="1312" cy="277" r="14" fill="#e2e8f0"/><text x="1312" y="282" text-anchor="middle" class="small" font-weight="700" fill="#334155">6</text>
+    <text x="1385" y="291" text-anchor="middle" class="step-title">Rà cuối buổi</text>
+    <text x="1385" y="319" text-anchor="middle" class="step-copy">5–10 phút (giả định)</text>
+  </g>
+
+  <rect x="90" y="375" width="1390" height="38" rx="10" fill="#fff1f2" stroke="#fecdd3"/>
+  <text x="110" y="400" class="small" font-weight="700" fill="#be123c">BOTTLENECK • Bước 3–5:</text>
+  <text x="335" y="400" class="small" fill="#881337">interviewer phải đánh giá evidence, nhớ coverage và nghĩ follow-up cùng lúc → nguy cơ thiếu 1–2 competency/buổi (cần validation).</text>
+
+  <path d="M800 442 L800 476" stroke="#2563eb" stroke-width="3" marker-end="url(#arrow)"/>
+  <rect x="692" y="438" width="216" height="30" rx="15" fill="#dbeafe"/>
+  <text x="800" y="459" text-anchor="middle" class="small" font-weight="700" fill="#1d4ed8">AI hỗ trợ chuyển đổi</text>
+
+  <rect x="60" y="480" width="1480" height="285" rx="20" fill="#ffffff" stroke="#bfdbfe" filter="url(#shadow)"/>
+  <circle cx="88" cy="520" r="10" fill="#2563eb"/>
+  <text x="110" y="528" class="section" fill="#1e40af">FUTURE STATE</text>
+  <text x="1510" y="526" text-anchor="end" class="small" font-weight="700" fill="#1e40af">AI cấu trúc • Human kiểm soát</text>
+
+  <g>
+    <rect x="90" y="565" width="240" height="104" rx="14" fill="#ecfdf5" stroke="#34d399" stroke-width="2"/>
+    <text x="210" y="600" text-anchor="middle" class="step-title">1. Interviewer hỏi</text>
+    <text x="210" y="628" text-anchor="middle" class="step-copy">ứng viên trả lời</text>
+
+    <line x1="336" y1="617" x2="372" y2="617" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+    <rect x="380" y="565" width="240" height="104" rx="14" fill="#f5f3ff" stroke="#8b5cf6" stroke-width="2"/>
+    <text x="500" y="595" text-anchor="middle" class="step-title">2. AI trích evidence</text>
+    <text x="500" y="621" text-anchor="middle" class="step-copy">gắn source về transcript</text>
+    <text x="500" y="644" text-anchor="middle" class="step-copy">hoặc manual notes</text>
+
+    <line x1="626" y1="617" x2="662" y2="617" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+    <rect x="670" y="565" width="240" height="104" rx="14" fill="#f5f3ff" stroke="#8b5cf6" stroke-width="2"/>
+    <text x="790" y="595" text-anchor="middle" class="step-title">3. AI cập nhật coverage</text>
+    <text x="790" y="621" text-anchor="middle" class="step-copy">Missing / Weak / Sufficient</text>
+    <text x="790" y="644" text-anchor="middle" class="step-copy">không có evidence → không điểm</text>
+
+    <line x1="916" y1="617" x2="952" y2="617" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+    <rect x="960" y="565" width="240" height="104" rx="14" fill="#f5f3ff" stroke="#8b5cf6" stroke-width="2"/>
+    <text x="1080" y="595" text-anchor="middle" class="step-title">4. AI đề xuất follow-up</text>
+    <text x="1080" y="621" text-anchor="middle" class="step-copy">chỉ khi còn evidence gap</text>
+    <text x="1080" y="644" text-anchor="middle" class="step-copy">không tự hỏi ứng viên</text>
+
+    <line x1="1206" y1="617" x2="1242" y2="617" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+    <rect x="1250" y="565" width="230" height="104" rx="14" fill="#ecfdf5" stroke="#10b981" stroke-width="2"/>
+    <text x="1365" y="595" text-anchor="middle" class="step-title">5. Human quyết định</text>
+    <text x="1365" y="621" text-anchor="middle" class="step-copy">Ask • Skip • Replace</text>
+    <text x="1365" y="644" text-anchor="middle" class="step-copy">và tiếp tục phỏng vấn</text>
+  </g>
+
+  <rect x="90" y="698" width="282" height="42" rx="21" fill="#eff6ff" stroke="#93c5fd"/>
+  <text x="231" y="725" text-anchor="middle" class="metric" fill="#1d4ed8">Coverage ≥ 95%</text>
+  <rect x="390" y="698" width="282" height="42" rx="21" fill="#eff6ff" stroke="#93c5fd"/>
+  <text x="531" y="725" text-anchor="middle" class="metric" fill="#1d4ed8">Evidence ≥ 90%</text>
+  <rect x="690" y="698" width="330" height="42" rx="21" fill="#eff6ff" stroke="#93c5fd"/>
+  <text x="855" y="725" text-anchor="middle" class="metric" fill="#1d4ed8">Unsupported evidence ≈ 0%</text>
+  <rect x="1038" y="698" width="442" height="42" rx="21" fill="#fffbeb" stroke="#fcd34d"/>
+  <text x="1259" y="725" text-anchor="middle" class="metric" fill="#92400e">Baseline: cần đo qua 10 buổi pilot</text>
+
+  <rect x="60" y="795" width="720" height="155" rx="18" fill="#ecfdf5" stroke="#6ee7b7"/>
+  <text x="90" y="833" class="section" fill="#047857">HUMAN BOUNDARY</text>
+  <text x="90" y="870" class="small" fill="#065f46">• AI không tự hỏi, không tự chấm điểm, không hire/reject.</text>
+  <text x="90" y="900" class="small" fill="#065f46">• Interviewer xác nhận evidence và quyết định Ask / Skip / Replace.</text>
+  <text x="90" y="930" class="small" fill="#065f46">• UNKNOWN được ưu tiên khi evidence chưa đủ.</text>
+
+  <rect x="820" y="795" width="720" height="155" rx="18" fill="#fffbeb" stroke="#fcd34d"/>
+  <text x="850" y="833" class="section" fill="#92400e">FALLBACK</text>
+  <text x="850" y="870" class="small" fill="#78350f">• Transcript/LLM lỗi → dùng interview plan + checklist + manual notes.</text>
+  <text x="850" y="900" class="small" fill="#78350f">• Luôn giữ raw notes/transcript để truy vết và kiểm tra.</text>
+  <text x="850" y="930" class="small" fill="#78350f">• Core interview workflow vẫn hoạt động khi AI unavailable.</text>
+</svg>

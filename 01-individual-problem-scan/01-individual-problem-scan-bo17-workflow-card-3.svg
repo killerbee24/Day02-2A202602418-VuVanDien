@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Draft Workflow Card 3 - Tổng hợp scorecard và phân tích disagreement</title>
+  <desc id="desc">So sánh quy trình tổng hợp scorecard thủ công và workflow kết hợp rule, LLM và human review.</desc>
+  <defs>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#0f172a" flood-opacity="0.10"/></filter>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#64748b"/></marker>
+    <style>
+      .sans { font-family: "Segoe UI", Arial, sans-serif; }
+      .section { font: 700 20px "Segoe UI", Arial, sans-serif; letter-spacing: 1.5px; }
+      .step-title { font: 700 16px "Segoe UI", Arial, sans-serif; fill: #0f172a; }
+      .step-copy { font: 14px "Segoe UI", Arial, sans-serif; fill: #475569; }
+      .small { font: 14px "Segoe UI", Arial, sans-serif; }
+      .metric { font: 700 15px "Segoe UI", Arial, sans-serif; }
+    </style>
+  </defs>
+
+  <rect width="1600" height="1000" fill="#f8fafc"/>
+  <rect width="1600" height="142" fill="#0f172a"/>
+  <rect x="60" y="30" width="188" height="34" rx="17" fill="#2563eb"/>
+  <text x="154" y="53" text-anchor="middle" class="sans" font-size="15" font-weight="700" fill="#ffffff">WORKFLOW CARD 03</text>
+  <text x="60" y="101" class="sans" font-size="32" font-weight="750" fill="#ffffff">Tổng hợp scorecard &amp; phân tích disagreement</text>
+  <text x="1540" y="53" text-anchor="end" class="sans" font-size="16" fill="#cbd5e1">BO-17 • DRAFT</text>
+  <text x="1540" y="103" text-anchor="end" class="sans" font-size="16" fill="#94a3b8">Actor: Hiring Lead • Trước buổi debrief</text>
+
+  <rect x="60" y="170" width="1480" height="260" rx="20" fill="#ffffff" stroke="#e2e8f0" filter="url(#shadow)"/>
+  <circle cx="88" cy="210" r="10" fill="#ef4444"/>
+  <text x="110" y="218" class="section" fill="#991b1b">CURRENT STATE</text>
+  <rect x="1226" y="190" width="284" height="38" rx="19" fill="#fef2f2" stroke="#fecaca"/>
+  <text x="1368" y="215" text-anchor="middle" class="sans" font-size="15" font-weight="700" fill="#b91c1c">45–90 phút/candidate (giả định)</text>
+
+  <g>
+    <rect x="90" y="255" width="190" height="100" rx="14" fill="#f8fafc" stroke="#cbd5e1"/>
+    <text x="185" y="287" text-anchor="middle" class="step-title">1. Mở A / B / C</text>
+    <text x="185" y="313" text-anchor="middle" class="step-copy">nhiều scorecard</text>
+    <text x="185" y="336" text-anchor="middle" class="step-copy">+ comments riêng</text>
+
+    <line x1="286" y1="305" x2="322" y2="305" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+    <rect x="330" y="255" width="190" height="100" rx="14" fill="#f8fafc" stroke="#cbd5e1"/>
+    <text x="425" y="291" text-anchor="middle" class="step-title">2. Chép điểm</text>
+    <text x="425" y="319" text-anchor="middle" class="step-copy">18 cells / 6 competency</text>
+
+    <line x1="526" y1="305" x2="562" y2="305" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+    <rect x="570" y="255" width="190" height="100" rx="14" fill="#f8fafc" stroke="#cbd5e1"/>
+    <text x="665" y="291" text-anchor="middle" class="step-title">3. Tìm độ lệch</text>
+    <text x="665" y="319" text-anchor="middle" class="step-copy">so sánh từng score</text>
+
+    <line x1="766" y1="305" x2="802" y2="305" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+    <rect x="810" y="255" width="190" height="100" rx="14" fill="#fff7ed" stroke="#fb923c" stroke-width="2"/>
+    <text x="905" y="291" text-anchor="middle" class="step-title">4. Đọc evidence</text>
+    <text x="905" y="319" text-anchor="middle" class="step-copy">từ từng interviewer</text>
+
+    <line x1="1006" y1="305" x2="1042" y2="305" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+    <rect x="1050" y="255" width="190" height="100" rx="14" fill="#fff7ed" stroke="#fb923c" stroke-width="2"/>
+    <text x="1145" y="287" text-anchor="middle" class="step-title">5. Tự giải thích</text>
+    <text x="1145" y="313" text-anchor="middle" class="step-copy">khác evidence hay</text>
+    <text x="1145" y="336" text-anchor="middle" class="step-copy">khác subdimension?</text>
+
+    <line x1="1246" y1="305" x2="1282" y2="305" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+    <rect x="1290" y="255" width="190" height="100" rx="14" fill="#fff7ed" stroke="#fb923c" stroke-width="2"/>
+    <text x="1385" y="291" text-anchor="middle" class="step-title">6. Viết debrief</text>
+    <text x="1385" y="319" text-anchor="middle" class="step-copy">strong / mixed / weak</text>
+  </g>
+
+  <rect x="90" y="375" width="1390" height="38" rx="10" fill="#fff1f2" stroke="#fecdd3"/>
+  <text x="110" y="400" class="small" font-weight="700" fill="#be123c">BOTTLENECK • Bước 4–6:</text>
+  <text x="335" y="400" class="small" fill="#881337">ghép và so sánh text từ nhiều nguồn; dễ lấy trung bình máy móc dù interviewers đánh giá khác subdimension.</text>
+
+  <path d="M800 442 L800 476" stroke="#2563eb" stroke-width="3" marker-end="url(#arrow)"/>
+  <rect x="661" y="438" width="278" height="30" rx="15" fill="#dbeafe"/>
+  <text x="800" y="459" text-anchor="middle" class="small" font-weight="700" fill="#1d4ed8">Rule phát hiện • LLM giải thích</text>
+
+  <rect x="60" y="480" width="1480" height="285" rx="20" fill="#ffffff" stroke="#bfdbfe" filter="url(#shadow)"/>
+  <circle cx="88" cy="520" r="10" fill="#2563eb"/>
+  <text x="110" y="528" class="section" fill="#1e40af">FUTURE STATE</text>
+  <text x="1510" y="526" text-anchor="end" class="small" font-weight="700" fill="#1e40af">Deterministic where possible • Human where consequential</text>
+
+  <g>
+    <rect x="90" y="565" width="190" height="104" rx="14" fill="#f8fafc" stroke="#cbd5e1"/>
+    <text x="185" y="595" text-anchor="middle" class="step-title">1. Thu scorecard</text>
+    <text x="185" y="621" text-anchor="middle" class="step-copy">chỉ bản đã submit</text>
+    <text x="185" y="644" text-anchor="middle" class="step-copy">kèm evidence source</text>
+
+    <line x1="286" y1="617" x2="322" y2="617" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+    <rect x="330" y="565" width="190" height="104" rx="14" fill="#eff6ff" stroke="#3b82f6" stroke-width="2"/>
+    <text x="425" y="595" text-anchor="middle" class="step-title">2. RULE flag</text>
+    <text x="425" y="621" text-anchor="middle" class="step-copy">max(score) − min(score)</text>
+    <text x="425" y="644" text-anchor="middle" class="step-copy">≥ 2 → disagreement</text>
+
+    <line x1="526" y1="617" x2="562" y2="617" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+    <rect x="570" y="565" width="190" height="104" rx="14" fill="#f5f3ff" stroke="#8b5cf6" stroke-width="2"/>
+    <text x="665" y="595" text-anchor="middle" class="step-title">3. LLM so sánh</text>
+    <text x="665" y="621" text-anchor="middle" class="step-copy">evidence + reasoning</text>
+    <text x="665" y="644" text-anchor="middle" class="step-copy">không chọn ai đúng</text>
+
+    <line x1="766" y1="617" x2="802" y2="617" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+    <rect x="810" y="565" width="190" height="104" rx="14" fill="#f5f3ff" stroke="#8b5cf6" stroke-width="2"/>
+    <text x="905" y="595" text-anchor="middle" class="step-title">4. Draft debrief</text>
+    <text x="905" y="621" text-anchor="middle" class="step-copy">strong / mixed / weak</text>
+    <text x="905" y="644" text-anchor="middle" class="step-copy">+ missing + source links</text>
+
+    <line x1="1006" y1="617" x2="1042" y2="617" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+    <rect x="1050" y="565" width="190" height="104" rx="14" fill="#ecfdf5" stroke="#34d399" stroke-width="2"/>
+    <text x="1145" y="595" text-anchor="middle" class="step-title">5. Lead review</text>
+    <text x="1145" y="621" text-anchor="middle" class="step-copy">verify • edit • override</text>
+    <text x="1145" y="644" text-anchor="middle" class="step-copy">chuẩn bị câu hỏi debrief</text>
+
+    <line x1="1246" y1="617" x2="1282" y2="617" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+    <rect x="1290" y="565" width="190" height="104" rx="14" fill="#ecfdf5" stroke="#10b981" stroke-width="2"/>
+    <text x="1385" y="595" text-anchor="middle" class="step-title">6. Human quyết định</text>
+    <text x="1385" y="621" text-anchor="middle" class="step-copy">Proceed / Additional</text>
+    <text x="1385" y="644" text-anchor="middle" class="step-copy">Interview / Reject / TBD</text>
+  </g>
+
+  <rect x="90" y="698" width="330" height="42" rx="21" fill="#eff6ff" stroke="#93c5fd"/>
+  <text x="255" y="725" text-anchor="middle" class="metric" fill="#1d4ed8">Rule flag recall = 100%</text>
+  <rect x="438" y="698" width="330" height="42" rx="21" fill="#eff6ff" stroke="#93c5fd"/>
+  <text x="603" y="725" text-anchor="middle" class="metric" fill="#1d4ed8">Debrief time ↓ ≥ 50%</text>
+  <rect x="786" y="698" width="330" height="42" rx="21" fill="#eff6ff" stroke="#93c5fd"/>
+  <text x="951" y="725" text-anchor="middle" class="metric" fill="#1d4ed8">Source traceability = 100%</text>
+  <rect x="1134" y="698" width="346" height="42" rx="21" fill="#fffbeb" stroke="#fcd34d"/>
+  <text x="1307" y="725" text-anchor="middle" class="metric" fill="#92400e">Baseline: replay 10 cases</text>
+
+  <rect x="60" y="795" width="720" height="155" rx="18" fill="#ecfdf5" stroke="#6ee7b7"/>
+  <text x="90" y="833" class="section" fill="#047857">HUMAN BOUNDARY</text>
+  <text x="90" y="870" class="small" fill="#065f46">• Rule chỉ flag; LLM chỉ phân tích và tạo draft.</text>
+  <text x="90" y="900" class="small" fill="#065f46">• AI không average score, không chọn interviewer “đúng”.</text>
+  <text x="90" y="930" class="small" fill="#065f46">• Hiring Lead/Hiring Manager giữ toàn quyền quyết định.</text>
+
+  <rect x="820" y="795" width="720" height="155" rx="18" fill="#fffbeb" stroke="#fcd34d"/>
+  <text x="850" y="833" class="section" fill="#92400e">FALLBACK</text>
+  <text x="850" y="870" class="small" fill="#78350f">• LLM lỗi → vẫn hiển thị raw scores + raw evidence + rule flags.</text>
+  <text x="850" y="900" class="small" fill="#78350f">• Export bảng tổng hợp để Hiring Lead debrief thủ công.</text>
+  <text x="850" y="930" class="small" fill="#78350f">• Không để AI trở thành single point of failure.</text>
+</svg>

@@ -4,13 +4,13 @@
 
 ## Thành viên nhóm
 
-| STT | Họ và tên            | Mã học viên   | Vai trò trong nhóm                        |
-| --- | -------------------- | ------------- | ----------------------------------------- |
-| 1   | Văn Quốc Dũng        | 2A202602505   | Facilitator, workflow                     |
-| 2   | Nguyễn Đức Thịnh     | 2A202602468   | Research, survey                          |
-| 3   | Lương Sỹ Khánh       | 2A202602715   | Research, writer                          |
-| 4   | Vũ Văn Điền          | 2A202602418   | Writer, workflow                          |
-| 5   | Đào Quang Thái Anh   | 2A202602987   | Writer, validation                        |
+| STT | Họ và tên          | Mã học viên | Vai trò trong nhóm    |
+| --- | ------------------ | ----------- | --------------------- |
+| 1   | Văn Quốc Dũng      | 2A202602505 | Facilitator, workflow |
+| 2   | Nguyễn Đức Thịnh   | 2A202602468 | Research, survey      |
+| 3   | Lương Sỹ Khánh     | 2A202602715 | Research, writer      |
+| 4   | Vũ Văn Điền        | 2A202602418 | Writer, workflow      |
+| 5   | Đào Quang Thái Anh | 2A202602987 | Writer, validation    |
 
 **Candidate problem nhóm chọn (1 câu):** Sinh viên & người đi làm gặp khó khăn trong việc tiêu hóa lượng thông tin lớn từ bài giảng / cuộc họp do tốc độ trình bày nhanh, dẫn đến tiếp thu kém và mất thời gian xem lại tài liệu.
 
@@ -20,45 +20,45 @@
 
 ### 3.1. Trình bày top 3 mỗi người (mỗi candidate 1-2 phút)
 
-| #   | Người đưa ra   | Candidate problem                                                                  | Người gặp vấn đề           | Điểm nghẽn                                                      | Cảm nhận nhanh của nhóm                                    |
-| --- | -------------- | ---------------------------------------------------------------------------------- | -------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------- |
-| 1   | Văn Quốc Dũng  | Sinh viên khó tiếp thu bài giảng do giảng quá nhanh                               | Sinh viên                  | Không kịp ghi chú, không hiểu kịp, phải tự học lại ở nhà       | **Tiềm năng cao**, phổ biến, AI có thể giải tốt            |
-| 2   | Văn Quốc Dũng  | Nhiều người tiếp cận Fake News mà không nhận ra                                   | Người dùng mạng xã hội     | Thông tin sai lệch lan nhanh, khó kiểm chứng                    | Vấn đề thật nhưng phức tạp, khó đo impact rõ ràng          |
-| 3   | Văn Quốc Dũng  | Lượng thông tin nhiều, họp meeting buồn ngủ / khó theo dõi                        | Nhân viên văn phòng        | Nội dung dài, không tổng hợp được sau meeting                   | Tương tự vấn đề #1, có thể gộp chung                      |
-| 4   | Vũ Văn Điền    | Khó cân đối dinh dưỡng, chi phí, thời gian ăn uống                                | Sinh viên / người đi làm   | Không biết chọn thực đơn phù hợp tiêu chí cùng lúc             | Thú vị nhưng data cá nhân hóa khó thu thập                 |
-| 5   | Vũ Văn Điền    | Thông tin công việc phân tán trên nhiều kênh (Gmail, Zalo, Slack…)                | Nhân viên văn phòng        | Mất thời gian tổng hợp, dễ bỏ sót thông tin quan trọng         | **Tiềm năng cao**, rõ workflow, AI tổng hợp tốt            |
-| 6   | Nguyễn Đức Thịnh | Điểm danh & chỉnh sửa thông tin cá nhân trong khóa học thiếu đồng bộ            | Học viên / ban tổ chức     | Mỗi bên cập nhật riêng, không đồng bộ, gây nhầm lẫn            | Có thể giải bằng Rule/Workflow, không nhất thiết cần AI    |
-| 7   | Nguyễn Đức Thịnh | Nhà để xe quá đông, không thông báo kịp thời cho học viên                       | Học viên, bảo vệ           | Tắc nghẽn nhà xe giờ cao điểm, mất thời gian tìm chỗ           | Giải pháp Camera AI thú vị, nhưng cần hạ tầng lớn         |
-| 8   | Nguyễn Đức Thịnh | Khó kiểm soát chất lượng trang thiết bị phòng học                               | Học viên, quản lý cơ sở    | Thiết bị hỏng không được báo cáo kịp thời                       | Giải pháp thiên về non-IT, khó scale bằng AI               |
-| 9   | Lương Sỹ Khánh | Đăng ký tín chỉ không như mong muốn, phải tìm môn thay thế                       | Sinh viên đại học          | Quy trình đăng ký phức tạp, thiếu gợi ý thay thế phù hợp       | Vấn đề lớn nhưng cần nhiều bên tham gia, khó làm trong lab |
-| 10  | Lương Sỹ Khánh | Thu ngân không quét được barcode sản phẩm, phải nhập tay                         | Thu ngân bán lẻ            | Lỗi nhập tay, chậm, dễ sai                                      | Vấn đề hẹp, impact thấp, đã có nhiều giải pháp sẵn        |
-| 11  | Đào Quang Thái Anh | Giáo viên soạn giáo án & cá nhân hóa tài liệu mất nhiều thời gian            | Giáo viên                  | Quy trình soạn thủ công, khó cá nhân hóa cho từng học sinh      | Quy trình phức tạp, yếu tố kiểm duyệt học thuật cần xét   |
-| 12  | Đào Quang Thái Anh | Chấm bài & nhận xét chi tiết tốn công, dễ thiếu nhất quán                    | Giáo viên                  | Mỗi bài chấm thủ công, khó đảm bảo nhất quán                   | OCR chữ viết tay còn lỗi, rủi ro cao khi AI chấm điểm     |
+| #   | Người đưa ra       | Candidate problem                                                    | Người gặp vấn đề         | Điểm nghẽn                                                 | Cảm nhận nhanh của nhóm                                    |
+| --- | ------------------ | -------------------------------------------------------------------- | ------------------------ | ---------------------------------------------------------- | ---------------------------------------------------------- |
+| 1   | Văn Quốc Dũng      | Sinh viên khó tiếp thu bài giảng do giảng quá nhanh                  | Sinh viên                | Không kịp ghi chú, không hiểu kịp, phải tự học lại ở nhà   | **Tiềm năng cao**, phổ biến, AI có thể giải tốt            |
+| 2   | Văn Quốc Dũng      | Nhiều người tiếp cận Fake News mà không nhận ra                      | Người dùng mạng xã hội   | Thông tin sai lệch lan nhanh, khó kiểm chứng               | Vấn đề thật nhưng phức tạp, khó đo impact rõ ràng          |
+| 3   | Văn Quốc Dũng      | Lượng thông tin nhiều, họp meeting buồn ngủ / khó theo dõi           | Nhân viên văn phòng      | Nội dung dài, không tổng hợp được sau meeting              | Tương tự vấn đề#1, có thể gộp chung                        |
+| 4   | Vũ Văn Điền        | Khó cân đối dinh dưỡng, chi phí, thời gian ăn uống                   | Sinh viên / người đi làm | Không biết chọn thực đơn phù hợp tiêu chí cùng lúc         | Thú vị nhưng data cá nhân hóa khó thu thập                 |
+| 5   | Vũ Văn Điền        | Thông tin công việc phân tán trên nhiều kênh (Gmail, Zalo, Slack…)   | Nhân viên văn phòng      | Mất thời gian tổng hợp, dễ bỏ sót thông tin quan trọng     | **Tiềm năng cao**, rõ workflow, AI tổng hợp tốt            |
+| 6   | Nguyễn Đức Thịnh   | Điểm danh & chỉnh sửa thông tin cá nhân trong khóa học thiếu đồng bộ | Học viên / ban tổ chức   | Mỗi bên cập nhật riêng, không đồng bộ, gây nhầm lẫn        | Có thể giải bằng Rule/Workflow, không nhất thiết cần AI    |
+| 7   | Nguyễn Đức Thịnh   | Nhà để xe quá đông, không thông báo kịp thời cho học viên            | Học viên, bảo vệ         | Tắc nghẽn nhà xe giờ cao điểm, mất thời gian tìm chỗ       | Giải pháp Camera AI thú vị, nhưng cần hạ tầng lớn          |
+| 8   | Nguyễn Đức Thịnh   | Khó kiểm soát chất lượng trang thiết bị phòng học                    | Học viên, quản lý cơ sở  | Thiết bị hỏng không được báo cáo kịp thời                  | Giải pháp thiên về non-IT, khó scale bằng AI               |
+| 9   | Lương Sỹ Khánh     | Đăng ký tín chỉ không như mong muốn, phải tìm môn thay thế           | Sinh viên đại học        | Quy trình đăng ký phức tạp, thiếu gợi ý thay thế phù hợp   | Vấn đề lớn nhưng cần nhiều bên tham gia, khó làm trong lab |
+| 10  | Lương Sỹ Khánh     | Thu ngân không quét được barcode sản phẩm, phải nhập tay             | Thu ngân bán lẻ          | Lỗi nhập tay, chậm, dễ sai                                 | Vấn đề hẹp, impact thấp, đã có nhiều giải pháp sẵn         |
+| 11  | Đào Quang Thái Anh | Giáo viên soạn giáo án & cá nhân hóa tài liệu mất nhiều thời gian    | Giáo viên                | Quy trình soạn thủ công, khó cá nhân hóa cho từng học sinh | Quy trình phức tạp, yếu tố kiểm duyệt học thuật cần xét    |
+| 12  | Đào Quang Thái Anh | Chấm bài & nhận xét chi tiết tốn công, dễ thiếu nhất quán            | Giáo viên                | Mỗi bài chấm thủ công, khó đảm bảo nhất quán               | OCR chữ viết tay còn lỗi, rủi ro cao khi AI chấm điểm      |
 
 ### 3.2. Gom trùng / cluster (gom 9-12 ý thành 3-4 cụm)
 
-| Cluster | Candidates included | Pattern chung                                               | Ghi chú                                                    |
-| ------- | ------------------- | ----------------------------------------------------------- | ---------------------------------------------------------- |
-| A       | #1, #3              | Quá tải thông tin trong bài giảng / cuộc họp               | Cùng root cause: tốc độ truyền đạt > tốc độ tiếp thu      |
-| B       | #5, #2              | Thông tin phân tán / nhiễu loạn từ nhiều nguồn              | AI có thể tổng hợp, lọc, phân loại                        |
-| C       | #11, #12            | Giảm tải công việc thủ công cho giáo viên bằng AI          | Nhiều ràng buộc kiểm duyệt, rủi ro cao                    |
-| D       | #4, #6, #7, #8, #9, #10 | Các vấn đề hẹp hoặc cần hạ tầng ngoài phạm vi lab     | Khó làm trong phạm vi lab, impact thấp hoặc scope quá rộng |
+| Cluster | Candidates included     | Pattern chung                                     | Ghi chú                                                    |
+| ------- | ----------------------- | ------------------------------------------------- | ---------------------------------------------------------- |
+| A       | #1, #3                  | Quá tải thông tin trong bài giảng / cuộc họp      | Cùng root cause: tốc độ truyền đạt > tốc độ tiếp thu       |
+| B       | #5, #2                  | Thông tin phân tán / nhiễu loạn từ nhiều nguồn    | AI có thể tổng hợp, lọc, phân loại                         |
+| C       | #11, #12                | Giảm tải công việc thủ công cho giáo viên bằng AI | Nhiều ràng buộc kiểm duyệt, rủi ro cao                     |
+| D       | #4, #6, #7, #8, #9, #10 | Các vấn đề hẹp hoặc cần hạ tầng ngoài phạm vi lab | Khó làm trong phạm vi lab, impact thấp hoặc scope quá rộng |
 
 ### 3.3. Shortlist (giữ 2-3 bài trả lời được 7 câu hỏi worksheet)
 
-| Candidate                                              | Vì sao vào shortlist                                                                                 | Rủi ro / điều chưa rõ                                           |
-| ------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| **Cluster A** — Record & Summarize bài giảng / meeting | Actor rõ (sinh viên, nhân viên), workflow rõ, AI summarize/transcribe đã mature, dễ validate        | Cần nguồn audio/video thật; chất lượng tóm tắt phụ thuộc audio |
-| **Cluster B** — Tổng hợp thông tin công việc đa kênh  | Workflow rõ (Gmail + Zalo → 1 nơi), đau thật, AI có thể làm tốt, dễ đo thời gian tiết kiệm         | API integration mỗi kênh khác nhau; privacy/security cần xét   |
-| **Cluster C** — AI hỗ trợ soạn giáo án & phân tích feedback | Nhu cầu thật của giáo viên, AI LLM phù hợp                                                   | Yếu tố kiểm duyệt học thuật phức tạp, OCR rủi ro chữ tay      |
+| Candidate                                                   | Vì sao vào shortlist                                                                         | Rủi ro / điều chưa rõ                                          |
+| ----------------------------------------------------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| **Cluster A** — Record & Summarize bài giảng / meeting      | Actor rõ (sinh viên, nhân viên), workflow rõ, AI summarize/transcribe đã mature, dễ validate | Cần nguồn audio/video thật; chất lượng tóm tắt phụ thuộc audio |
+| **Cluster B** — Tổng hợp thông tin công việc đa kênh        | Workflow rõ (Gmail + Zalo → 1 nơi), đau thật, AI có thể làm tốt, dễ đo thời gian tiết kiệm   | API integration mỗi kênh khác nhau; privacy/security cần xét   |
+| **Cluster C** — AI hỗ trợ soạn giáo án & phân tích feedback | Nhu cầu thật của giáo viên, AI LLM phù hợp                                                   | Yếu tố kiểm duyệt học thuật phức tạp, OCR rủi ro chữ tay       |
 
 ### 3.4. Score để đồng thuận (chấm 1-5, ép nói rõ vì sao cho 5 / cho 3)
 
-| Candidate                              | Actor rõ | Workflow rõ | Pain có evidence | Impact đo được | Làm trong lab | So sánh R/W/A được | Nhóm hiểu domain | Tổng |
-| -------------------------------------- | -------: | ----------: | ---------------: | -------------: | ------------: | -----------------: | ---------------: | ---: |
+| Candidate                               | Actor rõ | Workflow rõ | Pain có evidence | Impact đo được | Làm trong lab | So sánh R/W/A được | Nhóm hiểu domain | Tổng |
+| --------------------------------------- | -------: | ----------: | ---------------: | -------------: | ------------: | -----------------: | ---------------: | ---: |
 | Cluster A — Summarize bài giảng/meeting |        5 |           5 |                4 |              4 |             5 |                  4 |                5 |   32 |
-| Cluster B — Tổng hợp thông tin đa kênh |        4 |           4 |                4 |              4 |             3 |                  4 |                4 |   27 |
-| Cluster C — AI giáo án & phân tích     |        3 |           3 |                3 |              3 |             3 |                  3 |                3 |   21 |
+| Cluster B — Tổng hợp thông tin đa kênh  |        4 |           4 |                4 |              4 |             3 |                  4 |                4 |   27 |
+| Cluster C — AI giáo án & phân tích      |        3 |           3 |                3 |              3 |             3 |                  3 |                3 |   21 |
 
 **Candidate nhóm chọn (1 bài duy nhất):**
 
@@ -114,11 +114,11 @@ Vấn đề barcode (Khánh #10):
 
 ### 4.1. Quick validation (ít nhất 1 cách: interview 2-3 người hoặc survey 5-10 người)
 
-| Nguồn                          | Số người / mẫu | Tín hiệu xác nhận (kèm quote nguyên văn)                                                                  | Tín hiệu phản bác                                              | Nhóm sửa problem thế nào                                      |
-| ------------------------------ | -------------: | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------- |
-| Interview sinh viên            | 3              | "Tôi hay phải tua lại video 2-3 lần vì không kịp ghi" — SV năm 2. "Language barrier làm mình mất mạch" | 1 người nói đã quen ghi chú bằng tay, không cần tool         | Giữ nguyên focus vào người chưa có chiến lược ghi chú tốt   |
-| Interview nhân viên văn phòng  | 2              | "Meeting 2 tiếng, sau đó không nhớ ai làm gì, deadline là bao giờ"                                       | 1 người dùng Otter.ai rồi, hài lòng                           | Xác nhận pain thật; cần benchmark với tool sẵn có            |
-| Survey / poll (nhóm lab)       | 8              | 7/8 đồng ý "khó theo dõi hết khi bài giảng nhanh"; 6/8 "chưa có tool tóm tắt"                           | 1 người dùng ChatGPT paste transcript thủ công                | Xác nhận nhu cầu auto-transcribe; không cần paste tay         |
+| Nguồn                         | Số người / mẫu | Tín hiệu xác nhận (kèm quote nguyên văn)                                                               | Tín hiệu phản bác                                    | Nhóm sửa problem thế nào                                  |
+| ----------------------------- | -------------: | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------- | --------------------------------------------------------- |
+| Interview sinh viên           |              3 | "Tôi hay phải tua lại video 2-3 lần vì không kịp ghi" — SV năm 2. "Language barrier làm mình mất mạch" | 1 người nói đã quen ghi chú bằng tay, không cần tool | Giữ nguyên focus vào người chưa có chiến lược ghi chú tốt |
+| Interview nhân viên văn phòng |              2 | "Meeting 2 tiếng, sau đó không nhớ ai làm gì, deadline là bao giờ"                                     | 1 người dùng Otter.ai rồi, hài lòng                  | Xác nhận pain thật; cần benchmark với tool sẵn có         |
+| Survey / poll (nhóm lab)      |              8 | 7/8 đồng ý "khó theo dõi hết khi bài giảng nhanh"; 6/8 "chưa có tool tóm tắt"                          | 1 người dùng ChatGPT paste transcript thủ công       | Xác nhận nhu cầu auto-transcribe; không cần paste tay     |
 
 **Insight sau validation (1-2 câu — pain thật nằm ở đâu):**
 
@@ -132,11 +132,11 @@ Bằng chứng đính kèm (nếu có): `02-group-problem-statement-survey.png`,
 
 ### 4.2. Research giải pháp đã có (ít nhất 2-3 tools/patterns + 1-2 link kiểm được)
 
-| Nguồn / tool / case             | Link                                        | Họ giải quyết bước nào?                         | Điểm mạnh                                | Khoảng trống / rủi ro                          | Bài học cho nhóm                                         |
-| ------------------------------- | ------------------------------------------- | ----------------------------------------------- | ---------------------------------------- | ---------------------------------------------- | -------------------------------------------------------- |
-| OpenAI Whisper                  | https://github.com/openai/whisper           | Phiên âm audio → text (ASR)                     | Độ chính xác cao, hỗ trợ tiếng Việt      | Cần GPU hoặc API có phí; latency nếu file dài  | Dùng làm bước 1 (transcribe) trong pipeline              |
-| Otter.ai                        | https://otter.ai                            | Record + transcribe + highlight key moment       | UX tốt, real-time                        | Tiếng Việt chưa tốt; phí cao ở tier đầy đủ    | Benchmark để so sánh output chất lượng                   |
-| LLM Summarization (GPT-4/Gemini)| https://platform.openai.com/docs/overview  | Tóm tắt văn bản dài → bullet points / Q&A       | Linh hoạt prompt, hiểu ngữ cảnh          | Hallucination nếu transcript nhiễu             | Dùng làm bước 2 (summarize); cần human review output    |
+| Nguồn / tool / case              | Link                                      | Họ giải quyết bước nào?                    | Điểm mạnh                           | Khoảng trống / rủi ro                         | Bài học cho nhóm                                     |
+| -------------------------------- | ----------------------------------------- | ------------------------------------------ | ----------------------------------- | --------------------------------------------- | ---------------------------------------------------- |
+| OpenAI Whisper                   | https://github.com/openai/whisper         | Phiên âm audio → text (ASR)                | Độ chính xác cao, hỗ trợ tiếng Việt | Cần GPU hoặc API có phí; latency nếu file dài | Dùng làm bước 1 (transcribe) trong pipeline          |
+| Otter.ai                         | https://otter.ai                          | Record + transcribe + highlight key moment | UX tốt, real-time                   | Tiếng Việt chưa tốt; phí cao ở tier đầy đủ    | Benchmark để so sánh output chất lượng               |
+| LLM Summarization (GPT-4/Gemini) | https://platform.openai.com/docs/overview | Tóm tắt văn bản dài → bullet points / Q&A  | Linh hoạt prompt, hiểu ngữ cảnh     | Hallucination nếu transcript nhiễu            | Dùng làm bước 2 (summarize); cần human review output |
 
 **Research takeaway (2-3 câu — nên build gì / không build gì):**
 
@@ -165,14 +165,14 @@ Dán workflow hoặc link file: `02-group-problem-statement-workflow.png/pdf/md`
 → [6 Ôn tập / áp dụng: biến thiên]
 ```
 
-| Bước | Actor                     | Input                        | Output                      | Thời gian / tần suất         | Ghi chú (handoff? bottleneck?)                           |
-| ---- | ------------------------- | ---------------------------- | --------------------------- | ---------------------------- | -------------------------------------------------------- |
-| 1    | Sinh viên / nhân viên     | Bài giảng / cuộc họp live   | Ghi chú thô                 | 60-120 phút / buổi           | Tốc độ giảng viên > tốc độ ghi chú                      |
-| 2    | Sinh viên / nhân viên     | Ghi chú thô                  | Bản ghi cá nhân             | 20-40 phút / buổi            | Dễ bỏ sót ý quan trọng, language barrier với từ chuyên môn |
-| 3    | Sinh viên / nhân viên     | Bản ghi cá nhân              | Danh sách điểm chưa hiểu    | Ngay sau buổi học            | Ký ức ngắn hạn mờ nhanh nếu không ôn ngay               |
-| 4    | Sinh viên / nhân viên     | Video ghi lại / slide        | Đoạn cần nghe lại           | 30-90 phút / buổi (**BN**)   | **BOTTLENECK**: tua lại toàn bộ, khó tìm đúng timestamp  |
-| 5    | Sinh viên / nhân viên     | Đoạn nghe lại                | Bản tóm tắt cá nhân        | 15-30 phút / buổi            | Mỗi người tóm tắt khác nhau, khó chia sẻ nhóm           |
-| 6    | Giảng viên / team lead    | Câu hỏi từ học viên          | Giải đáp bổ sung            | Biến thiên                   | Tốn thêm thời gian giảng viên nếu học viên hiểu sai      |
+| Bước | Actor                  | Input                     | Output                   | Thời gian / tần suất       | Ghi chú (handoff? bottleneck?)                             |
+| ---- | ---------------------- | ------------------------- | ------------------------ | -------------------------- | ---------------------------------------------------------- |
+| 1    | Sinh viên / nhân viên  | Bài giảng / cuộc họp live | Ghi chú thô              | 60-120 phút / buổi         | Tốc độ giảng viên > tốc độ ghi chú                         |
+| 2    | Sinh viên / nhân viên  | Ghi chú thô               | Bản ghi cá nhân          | 20-40 phút / buổi          | Dễ bỏ sót ý quan trọng, language barrier với từ chuyên môn |
+| 3    | Sinh viên / nhân viên  | Bản ghi cá nhân           | Danh sách điểm chưa hiểu | Ngay sau buổi học          | Ký ức ngắn hạn mờ nhanh nếu không ôn ngay                  |
+| 4    | Sinh viên / nhân viên  | Video ghi lại / slide     | Đoạn cần nghe lại        | 30-90 phút / buổi (**BN**) | **BOTTLENECK**: tua lại toàn bộ, khó tìm đúng timestamp    |
+| 5    | Sinh viên / nhân viên  | Đoạn nghe lại             | Bản tóm tắt cá nhân      | 15-30 phút / buổi          | Mỗi người tóm tắt khác nhau, khó chia sẻ nhóm              |
+| 6    | Giảng viên / team lead | Câu hỏi từ học viên       | Giải đáp bổ sung         | Biến thiên                 | Tốn thêm thời gian giảng viên nếu học viên hiểu sai        |
 
 **Bottleneck chính (2-3 câu):**
 
@@ -202,23 +202,23 @@ Nếu LLM hallucinate → người review phát hiện và flag để retrain pr
 
 **Before/after impact:**
 
-| Metric                  | Trước          | Sau kỳ vọng    | Cách đo                                                 |
-| ----------------------- | -------------- | -------------- | ------------------------------------------------------- |
-| Tổng thời gian ôn tập   | 30-90 phút     | 10-20 phút     | Tự báo cáo qua form; A/B test 2 nhóm trong 2 tuần     |
-| Số lần tua lại video    | 3-5 lần/buổi  | 0-1 lần/buổi  | Log hành vi (nếu có LMS) hoặc self-report              |
-| Số bước thủ công        | 6 bước         | 3 bước (1,4,6) | Đếm bước trong workflow mới                            |
-| Tỷ lệ câu hỏi hỏi lại  | Chưa đo        | Giảm 40%       | So sánh số câu hỏi trên forum/chat trước/sau pilot     |
-| Risk mới                | —              | Hallucination  | Tỷ lệ lỗi LLM qua human review; mục tiêu < 5% sai fact |
+| Metric                | Trước        | Sau kỳ vọng    | Cách đo                                                |
+| --------------------- | ------------ | -------------- | ------------------------------------------------------ |
+| Tổng thời gian ôn tập | 30-90 phút   | 10-20 phút     | Tự báo cáo qua form; A/B test 2 nhóm trong 2 tuần      |
+| Số lần tua lại video  | 3-5 lần/buổi | 0-1 lần/buổi   | Log hành vi (nếu có LMS) hoặc self-report              |
+| Số bước thủ công      | 6 bước       | 3 bước (1,4,6) | Đếm bước trong workflow mới                            |
+| Tỷ lệ câu hỏi hỏi lại | Chưa đo      | Giảm 40%       | So sánh số câu hỏi trên forum/chat trước/sau pilot     |
+| Risk mới              | —            | Hallucination  | Tỷ lệ lỗi LLM qua human review; mục tiêu < 5% sai fact |
 
 ### 5.3. Problem Statement v0 (mỗi field 2-3 câu)
 
-| Field              | Nội dung                                                                                                                                           |
-| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Actor**          | Sinh viên và nhân viên văn phòng tham gia bài giảng hoặc cuộc họp dài (60-120 phút), không có nền tảng ghi chú chuyên sâu.                       |
-| **Workflow**       | Nghe giảng/họp → ghi chú thủ công → nhớ lại → tua lại video (bottleneck) → tự tóm tắt → ôn tập.                                                 |
-| **Bottleneck**     | Bước tua lại video chiếm 30-90 phút/buổi; không có bản tóm tắt chính xác nên học viên phải xem lại toàn bộ để tìm 1-2 điểm chưa hiểu.          |
-| **Impact**         | Mỗi người mất thêm 30-90 phút/buổi; kiến thức không được củng cố đúng lúc; language barrier làm tăng thêm thời gian với nội dung tiếng Anh.     |
-| **Success Metric** | Giảm thời gian ôn tập từ 30-90 phút xuống 10-20 phút/buổi; tỷ lệ hallucination LLM < 5%; 70% người dùng hài lòng với chất lượng tóm tắt.       |
+| Field              | Nội dung                                                                                                                                          |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Actor**          | Sinh viên và nhân viên văn phòng tham gia bài giảng hoặc cuộc họp dài (60-120 phút), không có nền tảng ghi chú chuyên sâu.                        |
+| **Workflow**       | Nghe giảng/họp → ghi chú thủ công → nhớ lại → tua lại video (bottleneck) → tự tóm tắt → ôn tập.                                                   |
+| **Bottleneck**     | Bước tua lại video chiếm 30-90 phút/buổi; không có bản tóm tắt chính xác nên học viên phải xem lại toàn bộ để tìm 1-2 điểm chưa hiểu.             |
+| **Impact**         | Mỗi người mất thêm 30-90 phút/buổi; kiến thức không được củng cố đúng lúc; language barrier làm tăng thêm thời gian với nội dung tiếng Anh.       |
+| **Success Metric** | Giảm thời gian ôn tập từ 30-90 phút xuống 10-20 phút/buổi; tỷ lệ hallucination LLM < 5%; 70% người dùng hài lòng với chất lượng tóm tắt.          |
 | **Boundary**       | Chỉ xử lý audio/video do chính nhóm ghi lại (có sự đồng ý). Không tích hợp hệ thống LMS trường. Không thay thế giảng viên hay quyết định điểm số. |
 
 **Câu hỏi AI phản biện v0 (nếu có):**
@@ -252,11 +252,11 @@ Rule không đủ vì cần hiểu ngôn ngữ tự nhiên; Agent thì overkill 
 
 ### 6.1. So sánh Rule / Workflow / Agent (so trên cùng 1 bài)
 
-| Mức          | Phương án cho bài toán nhóm                              | Khi nào đủ                                                   | Rủi ro                                              | Chọn? (Dùng cho bước nào?)                            |
-| ------------ | -------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------- | ----------------------------------------------------- |
-| **Rule**     | Regex tìm keyword, template cố định                      | Nếu nội dung cực kỳ cấu trúc (VD: biên bản họp theo form)   | Không xử lý được ngôn ngữ tự nhiên, dễ miss context | Không — bài giảng quá linh hoạt cho rule cứng        |
-| **Workflow** | ASR → LLM summarize → human review → publish (pipeline) | Khi các bước rõ ràng, tuần tự, không cần AI tự quyết định   | Hallucination ở bước LLM; chất lượng audio thấp    | **Chọn** — toàn bộ pipeline                           |
-| **Agent**    | AI tự quyết định hỏi lại người dùng, gọi tool khác      | Khi cần xử lý ngoại lệ phức tạp, input đa dạng không đoán trước | Khó kiểm soát, chi phí cao, debug khó           | Không — không cần planning động ở giai đoạn pilot    |
+| Mức          | Phương án cho bài toán nhóm                             | Khi nào đủ                                                      | Rủi ro                                              | Chọn? (Dùng cho bước nào?)                        |
+| ------------ | ------------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------- |
+| **Rule**     | Regex tìm keyword, template cố định                     | Nếu nội dung cực kỳ cấu trúc (VD: biên bản họp theo form)       | Không xử lý được ngôn ngữ tự nhiên, dễ miss context | Không — bài giảng quá linh hoạt cho rule cứng     |
+| **Workflow** | ASR → LLM summarize → human review → publish (pipeline) | Khi các bước rõ ràng, tuần tự, không cần AI tự quyết định       | Hallucination ở bước LLM; chất lượng audio thấp     | **Chọn** — toàn bộ pipeline                       |
+| **Agent**    | AI tự quyết định hỏi lại người dùng, gọi tool khác      | Khi cần xử lý ngoại lệ phức tạp, input đa dạng không đoán trước | Khó kiểm soát, chi phí cao, debug khó               | Không — không cần planning động ở giai đoạn pilot |
 
 **5 câu hỏi chốt (trả lời câu đầy đủ):**
 
@@ -291,27 +291,27 @@ giảng bài về machine learning hay marketing thành 10 bullet points có ý 
 
 ### 6.2. Problem Statement v1 (v0 sửa chặt hơn + 3 field cuối)
 
-| Field                                                                          | Nội dung                                                                                                                                                                              |
-| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Field                                                                          | Nội dung                                                                                                                                                                           |
+| ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Actor**                                                                      | Sinh viên VinAI (60-120 phút/buổi học) và nhân viên văn phòng (họp 45-90 phút), không có công cụ tóm tắt tự động — ước tính 20-50 người trong phạm vi pilot.                       |
-| **Workflow**                                                                   | Tham gia buổi học/họp → ghi chú thủ công → tua lại video để hiểu lại → tự tóm tắt → ôn tập. Hiện tại không có bước tự động hóa nào trong chuỗi này.                               |
+| **Workflow**                                                                   | Tham gia buổi học/họp → ghi chú thủ công → tua lại video để hiểu lại → tự tóm tắt → ôn tập. Hiện tại không có bước tự động hóa nào trong chuỗi này.                                |
 | **Bottleneck**                                                                 | Bước tua lại video (Bước 4): chiếm 30-90 phút/buổi, mỗi người tốn riêng lẻ, không chia sẻ được bản tóm tắt chung.                                                                  |
-| **Impact**                                                                     | Mỗi học viên mất thêm 30-90 phút/buổi chỉ để ôn lại; nhân 20 người × 5 buổi/tuần = 3.000-9.000 phút/tuần lãng phí. Kiến thức không được củng cố kịp thời làm giảm hiệu quả học. |
-| **Success Metric**                                                             | Thời gian ôn tập sau buổi học giảm từ 30-90' xuống 10-20'; tỷ lệ hallucination LLM < 5% (qua human review); 70%+ người dùng pilot đánh giá tóm tắt "đủ dùng" trên thang 5 điểm.  |
+| **Impact**                                                                     | Mỗi học viên mất thêm 30-90 phút/buổi chỉ để ôn lại; nhân 20 người × 5 buổi/tuần = 3.000-9.000 phút/tuần lãng phí. Kiến thức không được củng cố kịp thời làm giảm hiệu quả học.    |
+| **Success Metric**                                                             | Thời gian ôn tập sau buổi học giảm từ 30-90' xuống 10-20'; tỷ lệ hallucination LLM < 5% (qua human review); 70%+ người dùng pilot đánh giá tóm tắt "đủ dùng" trên thang 5 điểm.    |
 | **Boundary** (làm / không làm)                                                 | LÀM: pipeline transcribe + summarize cho audio/video do nhóm tự thu (có đồng ý). KHÔNG LÀM: tích hợp LMS, lưu trữ dài hạn, chấm điểm tự động, xử lý file bên thứ ba chưa xin phép. |
 | **AI intervention point** (can thiệp sau bước nào, trước bước nào)             | AI can thiệp sau bước 1 (kết thúc buổi học, file audio sẵn sàng), trước bước 4 (người dùng tua lại video) — thay thế hoàn toàn bước 4 và giảm tải bước 2, 5.                       |
-| **Mức chọn** (Rule / Workflow / Agent + 1 câu vì sao)                          | **Workflow** — các bước tuần tự, xác định, orchestrate được bằng code; không cần AI tự lập kế hoạch động.                                                                            |
-| **Rủi ro & người thật kiểm tra** (rủi ro lớn nhất + ai kiểm tra bằng cách nào) | Rủi ro: LLM hallucinate fact trong tóm tắt. Người kiểm tra: 1 thành viên nhóm đọc lướt bản tóm tắt (5-10 phút) trước khi gửi, so chiếu với slide/tài liệu gốc nếu nghi ngờ.      |
+| **Mức chọn** (Rule / Workflow / Agent + 1 câu vì sao)                          | **Workflow** — các bước tuần tự, xác định, orchestrate được bằng code; không cần AI tự lập kế hoạch động.                                                                          |
+| **Rủi ro & người thật kiểm tra** (rủi ro lớn nhất + ai kiểm tra bằng cách nào) | Rủi ro: LLM hallucinate fact trong tóm tắt. Người kiểm tra: 1 thành viên nhóm đọc lướt bản tóm tắt (5-10 phút) trước khi gửi, so chiếu với slide/tài liệu gốc nếu nghi ngờ.        |
 
 ### 6.3. Final decision
 
 | Câu hỏi                               | Yes / Not Yet / No | Ghi chú (câu đầy đủ)                                                                                    |
 | ------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------- |
-| Actor + workflow rõ chưa?             | Yes                | Actor: sinh viên + nhân viên. Workflow 6 bước đã vẽ, bottleneck ở bước 4 xác định rõ.                 |
-| Baseline + metric đo được chưa?       | Yes                | Baseline: 30-90 phút ôn tập/buổi. Metric: thời gian, hallucination rate, user satisfaction.           |
-| Data/input đủ dùng chưa?             | Yes                | Audio/video do nhóm tự ghi trong pilot; Whisper + OpenAI API đủ để chạy.                               |
-| AI sai, hậu quả chấp nhận được không? | Yes                | Tóm tắt sai → học viên mất 5-10 phút đọc lại slide, không gây hại nghiêm trọng. Human review bắt lỗi. |
-| Có người review/owner không?          | Yes                | Vũ Văn Điền làm owner kỹ thuật; Đào Quang Thái Anh phụ trách human review trong pilot.                |
+| Actor + workflow rõ chưa?             | Yes                | Actor: sinh viên + nhân viên. Workflow 6 bước đã vẽ, bottleneck ở bước 4 xác định rõ.                   |
+| Baseline + metric đo được chưa?       | Yes                | Baseline: 30-90 phút ôn tập/buổi. Metric: thời gian, hallucination rate, user satisfaction.             |
+| Data/input đủ dùng chưa?              | Yes                | Audio/video do nhóm tự ghi trong pilot; Whisper + OpenAI API đủ để chạy.                                |
+| AI sai, hậu quả chấp nhận được không? | Yes                | Tóm tắt sai → học viên mất 5-10 phút đọc lại slide, không gây hại nghiêm trọng. Human review bắt lỗi.   |
+| Có người review/owner không?          | Yes                | Vũ Văn Điền làm owner kỹ thuật; Đào Quang Thái Anh phụ trách human review trong pilot.                  |
 | Có cách non-AI đơn giản hơn không?    | Yes                | Cách non-AI: giảng viên cung cấp slide tóm tắt sau buổi học. Nhưng không scale và phụ thuộc giảng viên. |
 
 **Decision:**

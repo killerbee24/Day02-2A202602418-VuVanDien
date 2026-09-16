@@ -1,13 +1,13 @@
 # 01 — Individual Problem Scan
 
-> Điền theo Phase 1 + Phase 2 trong `01-worksheet.md`. Tự scan trước, dùng AI sau để phản biện. Không copy ví dụ Weekly Report.
+
 
 ## Thông tin cá nhân
 
 - Họ và tên: Vũ Văn Điền
 - Mã học viên: 2A202602418
 - Vai trò / bối cảnh: Sinh viên, thường xuyên đi học và tự quản lý công việc cá nhân
-- Công việc hằng tuần (3-5 gạch đầu dòng để soi problem):
+- Công việc hằng tuần :
   - Tự lên kế hoạch ăn uống và chi tiêu hàng ngày
   - Theo dõi thông tin công việc/học tập từ nhiều kênh (Zalo, Gmail, Facebook Groups)
   - Di chuyển hàng ngày bằng xe máy, thường xuyên gặp kẹt xe
@@ -16,7 +16,7 @@
 
 ---
 
-## Phase 1 — Scan 5+ problems (tối thiểu 5, khuyến khích 8-10)
+## Phase 1 — Scan 5+ problems 
 
 **Cách điền:** mỗi dòng = việc gì + ai chịu + đo bằng gì. Cột `Dấu hiệu thật` bắt buộc có số: mất bao lâu (bấm giờ mấy lần), mấy lần/tuần, bao nhiêu người gặp, log/ticket/quote nào.
 
@@ -30,7 +30,7 @@
 | 6 | AI có thể tốt hơn | Chuẩn bị tài liệu ôn tập: mỗi lần ôn phải tự tổng hợp lại từ nhiều nguồn thay vì có bộ câu hỏi tự động theo độ yếu | Sinh viên ôn thi | Mất 1-2 tiếng/môn để tổng hợp tài liệu ôn trước mỗi kỳ thi; hay bỏ sót phần yếu vì không có hệ thống nhắc |
 | 7 | Pain từ người khác | Chia sẻ chi phí nhóm (đi chơi, đặt đồ ăn chung): tính toán thủ công, hay sai, gây hiểu lầm | Nhóm bạn, cùng phòng | Tranh luận về tiền ít nhất 1 lần/tháng; mất 10-15 phút tính toán mỗi lần chia |
 
-> Gợi ý tự soi: tuần trước mất nhiều thời gian nhất vào việc gì? Việc gì hay trì hoãn? Người khác hay hỏi lại câu gì? Workflow nào ai cũng biết là chậm?
+
 
 **AI đã dùng ở Phase 1 (nếu có):**
 - Prompt đã hỏi: "Giúp tôi nghĩ thêm các vấn đề sinh viên hay gặp liên quan đến quản lý thông tin và di chuyển hàng ngày"
